@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pok-cart/static/css/main.0a37beb7.css",
+    "main.js": "/pok-cart/static/js/main.48383604.js",
+    "static/js/787.cc90a0b3.chunk.js": "/pok-cart/static/js/787.cc90a0b3.chunk.js",
+    "index.html": "/pok-cart/index.html",
+    "main.0a37beb7.css.map": "/pok-cart/static/css/main.0a37beb7.css.map",
+    "main.48383604.js.map": "/pok-cart/static/js/main.48383604.js.map",
+    "787.cc90a0b3.chunk.js.map": "/pok-cart/static/js/787.cc90a0b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a37beb7.css",
+    "static/js/main.48383604.js"
+  ]
+}
